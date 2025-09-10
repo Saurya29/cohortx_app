@@ -13,8 +13,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Open the URL shown (usually http://localhost:8501).
-
 ## Dataset Requirements
 
 Your CSV can be line-items or orders. The app will aggregate to orders. Minimum columns:
