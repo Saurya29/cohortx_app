@@ -1,6 +1,6 @@
 # CohortX — Customer Retention Dashboard
 
-A minimal, interview-ready **cohort analysis** web app built with **Streamlit**.
+A minimal, **cohort analysis** web app built with **Streamlit**.
 
 - Upload your CSV, map columns, and instantly get **retention heatmaps**, **cohort curves**, **AOV**, and **items per order**.
 - Clean UX, fast, and deployable in minutes.
